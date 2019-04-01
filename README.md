@@ -5,3 +5,7 @@ I changed some of the rules to make it easier for me to code and didn't have tim
 I thought uploading this would help people get started on developing in C#, like me, and looking for similar systems to mine. 
 When starting out I couldn't find that many examples of a monopoly c# game that I could understand. 
 I also uploaded this so I can show friends later on...
+
+
+
+Needs visual studio to run! 
